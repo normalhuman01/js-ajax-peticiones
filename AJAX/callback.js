@@ -15,9 +15,9 @@ function fnAJAX(url, funcao) {
 }
 
 function comando1(pedido) {
-    document.getElementById('caixa1').innerHTML = pedido.responseText;
+    document.getElementById('box1').innerHTML = pedido.responseText;
 }
 
 function comando2(pedido) {
-    document.getElementById('caixa2').innerHTML = pedido.responseText;
+    document.getElementById('box2').innerHTML = pedido.responseText;
 }

@@ -1,6 +1,6 @@
 <?php
 
-echo 'Chegou a seguinte informação.';
+echo 'The following information has arrived.';
 print_r($_POST);
 
 ?>

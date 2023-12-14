@@ -2,14 +2,14 @@ $(document).ready(
     function() {
         $("#cmd").click(
             function() {
-                $("#caixa").load("jquery-controle.txt", function(responseTxt, statusTxt, xhr) {
+                $("#box").load("jquery-control.txt", function(responseTxt, statusTxt, xhr) {
                     if (statusTxt == "success") {
-                        alert("Comunicação com sucesso.")
+                        alert("Comunicación correcta.")
                     } else if (statusTxt == "error") {
-                        alert("Erro: " + xhr.status + ": " + xhr.statusTxt)
+                        alert("Error: " + xhr.status + ": " + xhr.statusTxt)
                     }
                 })
             }
         )
     }
-) 
+)

@@ -1,1 +1,1 @@
-Esta é a frase do servidor.
+Esta es la frase del servidor.

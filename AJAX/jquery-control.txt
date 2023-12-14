@@ -1,4 +1,4 @@
-<p id="1">Esta é a frase um.</p>
-<p id="2">Esta seria a segunda frase.</p>
-<p id="3">Aqui está a terceira frase.</p>
-<p id="4">Finalmente, temos a quarta frase.</p>
+<p id="1">Esta es la primera frase.
+<p id="2">Esta sería la segunda frase.</p>
+<p id="3">Aquí tenemos la tercera frase.</p>
+<p id="4">Por último, tenemos la cuarta frase.</p>

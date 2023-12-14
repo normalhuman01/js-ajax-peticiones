@@ -14,12 +14,12 @@ function submeterFormulario(id_formulario) {
 
             // sucesso
             success: function(i) {
-                $("#info").html('Enviado com sucesso.')
+                $("#info").html('Sent with success.')
             },
 
             // erro
             error: function() {
-                $("#info").html('Aconteceu um erro.')
+                $("#info").html('An error occurred.')
             }
         })
     })

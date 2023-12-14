@@ -1,1 +1,1 @@
-Dados do ficheiro de texto.
+Text file data.
